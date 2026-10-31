@@ -1,0 +1,2 @@
+rootProject.name = "NdraaGoogle"
+include ':app'
